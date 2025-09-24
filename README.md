@@ -47,12 +47,12 @@ The PDF report includes:
 - **Recommendations**: Suggestions for marketing strategies, business expansion, and product improvements based on the analysis.
 
 ## File Structure
-- **Task 1: Data Cleaning**: 
-- **Task 2: Customer Segmentation**: 
-- **Task 3: Transaction Analysis**: 
-- **Task 4: New Customer Insights**: 
-- **Task 5: Customer Lifetime Value (CLV) Analysis**: 
-- **Task 6: Executive Summary and Recommendations**: 
+- **Task 1: Data Cleaning**
+- **Task 2: Customer Segmentation**
+- **Task 3: Transaction Analysis**
+- **Task 4: New Customer Insights**
+- **Task 5: Customer Lifetime Value (CLV) Analysis** 
+- **Task 6: Executive Summary and Recommendations**
 
 
 ## Tools Used
@@ -62,3 +62,4 @@ The PDF report includes:
 
 ## Conclusion
 This project provides a comprehensive analysis of customer behavior and transactions, offering actionable insights that can guide KPMG in making data-driven decisions. The recommendations provided are based on the thorough analysis of customer lifetime value, segmentation, and transaction trends.
+
